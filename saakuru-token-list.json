@@ -1,0 +1,44 @@
+{
+    "name": "Saakuru",
+    "logoURI": "https://saakuru.com/_next/static/media/saakuru-logo-white.9475040e.svg",
+    "keywords": [
+        "Saakuru",
+        "saakuru"
+    ],
+    "timestamp": "2024-05-01T23:01:51.032Z",
+    "tags": {},
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 7225878,
+            "address": "0x557a526472372f1F222EcC6af8818C1e6e78A85f",
+            "symbol": "WOAS",
+            "name": "Wrapped Oasys",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22265.png",
+            "tags": []
+        },
+        {
+            "chainId": 7225878,
+            "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+            "symbol": "USDT",
+            "name": "Tether USD",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1696501661",
+            "tags": []
+        },
+        {
+            "chainId": 7225878,
+            "address": "0xf3ad01CF8E4D3ef95f5D480Ec534dD98CAa0555f",
+            "symbol": "SATS",
+            "name": "Satoshi",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/tokens/8453/0x9d36f8f62347538440a212e9162f534f797542df/logo-128.png",
+            "tags": []
+        }
+    ]
+}
