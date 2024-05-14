@@ -1,0 +1,105 @@
+{
+    "$schema": "https://uniswap.org/tokenlist.schema.json",
+    "name": "Saakuru",
+    "logoURI": "https://saakuru.com/_next/static/media/saakuru-logo-white.9475040e.svg",
+    "keywords": [
+        "Saakuru",
+        "saakuru"
+    ],
+    "timestamp": "2024-05-01T23:01:51.032Z",
+    "version": {
+        "major": 2,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 7225878,
+            "address": "0x557a526472372f1F222EcC6af8818C1e6e78A85f",
+            "symbol": "WOAS",
+            "name": "Wrapped Oasys",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28493/standard/Oasys_OAS_Token_Black_%281%29.png?1699333247",
+            "extensions": {
+                "bridgeInfo": {}
+            }
+        },
+        {
+            "chainId": 7225878,
+            "address": "0xD457DE2ebCE0D70F571718Ad66A28273b5956105",
+            "symbol": "USDT",
+            "name": "Tether USD",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1696501661",
+            "extensions": {
+                "bridgeInfo": {}
+            }
+        },
+        {
+            "chainId": 7225878,
+            "address": "0x739222D8A9179fE05129C77a8fa354049c088CaA",
+            "symbol": "USDC.e",
+            "name": "Bridged USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+            "extensions": {
+                "bridgeInfo": {}
+            }
+        },
+        {
+            "chainId": 7225878,
+            "address": "0xf3ad01cf8e4d3ef95f5d480ec534dd98caa0555f",
+            "symbol": "SATS",
+            "name": "Satoshi",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/tokens/8453/0x9d36f8f62347538440a212e9162f534f797542df/logo-128.png",
+            "extensions": {
+                "bridgeInfo": {}
+            }
+        },
+        {
+            "chainId": 7225878,
+            "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+            "symbol": "TCGC",
+            "name": "TCGC",
+            "decimals": 18,
+            "logoURI": "https://app.v2.tealswap.com/img/token/TCGC.png",
+            "extensions": {
+                "bridgeInfo": {}
+            }
+        },
+        {
+            "chainId": 7225878,
+            "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+            "symbol": "MCHC",
+            "name": "MCH Coin",
+            "decimals": 18,
+            "logoURI": "https://app.v2.tealswap.com/img/token/MCHC.png",
+            "extensions": {
+                "bridgeInfo": {}
+            }
+        },
+        {
+            "chainId": 7225878,
+            "address": "0x02d728b9c1513478a6b6de77a92648e1d8f801e7",
+            "symbol": "DOG",
+            "name": "The Doge NFT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/18111/standard/Doge.png?1696517615",
+            "extensions": {
+                "bridgeInfo": {}
+            }
+        },
+        {
+            "chainId": 7225878,
+            "address": "0xe2dCA969624795985F2f083BcD0b674337ba130a",
+            "symbol": "SKR",
+            "name": "Saakuru",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/37058/standard/saakuru.jpeg?1713172376",
+            "extensions": {
+                "bridgeInfo": {}
+            }
+        }
+    ]
+}
