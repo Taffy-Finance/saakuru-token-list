@@ -87,7 +87,26 @@
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/18111/standard/Doge.png?1696517615",
             "extensions": {
-                "bridgeInfo": {}
+                "bridgeInfo": {
+                    "1": {
+                        "tokenAddress": "0xbaac2b4491727d78d2b78815144570b9f2fe8899"
+                    },
+                    "56": {
+                        "tokenAddress": "0xaa88c603d142c371ea0eac8756123c5805edee03"
+                    },
+                    "137": {
+                        "tokenAddress": "0xeEe3371B89FC43Ea970E908536Fcddd975135D8a"
+                    },
+                    "10": {
+                        "tokenAddress": "0x8F69Ee043d52161Fd29137AeDf63f5e70cd504D5"
+                    },
+                    "42161": {
+                        "tokenAddress": "0x4425742F1EC8D98779690b5A3A6276Db85Ddc01A"
+                    },
+                    "8453": {
+                        "tokenAddress": "0xafb89a09d82fbde58f18ac6437b3fc81724e4df6"
+                    }
+                }
             }
         },
         {
