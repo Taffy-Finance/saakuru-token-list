@@ -54,7 +54,23 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/tokens/8453/0x9d36f8f62347538440a212e9162f534f797542df/logo-128.png",
             "extensions": {
-                "bridgeInfo": {}
+                "bridgeInfo": {
+                    "1": {
+                        "tokenAddress": "0x9d36f8f62347538440a212e9162f534f797542df"
+                    },
+                    "10": {
+                        "tokenAddress": "0x9d36f8f62347538440a212e9162f534f797542df"
+                    },
+                    "8453": {
+                        "tokenAddress": "0x9d36f8f62347538440a212e9162f534f797542df"
+                    },
+                    "42161": {
+                        "tokenAddress": "0x9d36f8f62347538440a212e9162f534f797542df"
+                    },
+                    "137": {
+                        "tokenAddress": "0x9d36f8f62347538440a212e9162f534f797542df"
+                    }
+                }
             }
         },
         {
