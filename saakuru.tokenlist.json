@@ -19,7 +19,7 @@
             "symbol": "WOAS",
             "name": "Wrapped Oasys",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/28493/standard/Oasys_OAS_Token_Black_%281%29.png?1699333247",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22265.png",
             "extensions": {
                 "bridgeInfo": {}
             }
@@ -153,7 +153,7 @@
             "symbol": "SKR",
             "name": "Saakuru",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/37058/standard/saakuru.jpeg?1713172376",
+            "logoURI": "https://raw.githubusercontent.com/Saakuru-Open-Source/saakuru-token-list/main/images/saakuru-token.jpeg",
             "extensions": {
                 "bridgeInfo": {
                     "56": {
