@@ -1,7 +1,7 @@
 {
     "$schema": "https://uniswap.org/tokenlist.schema.json",
     "name": "Saakuru",
-    "logoURI": "https://saakuru.com/_next/static/media/saakuru-logo-white.9475040e.svg",
+    "logoURI": "https://raw.githubusercontent.com/Saakuru-Open-Source/saakuru-token-list/ed6a8d67d67abfc873335fa88fc823b80fa03a6b/images/saakuru-network.svg",
     "keywords": [
         "Saakuru",
         "saakuru"
@@ -157,6 +157,24 @@
             "extensions": {
                 "bridgeInfo": {
                     "56": {
+                        "tokenAddress": "0xe2dCA969624795985F2f083BcD0b674337ba130a"
+                    },
+                    "1": {
+                        "tokenAddress": "0xe2dCA969624795985F2f083BcD0b674337ba130a"
+                    },
+                    "10": {
+                        "tokenAddress": "0xe2dCA969624795985F2f083BcD0b674337ba130a"
+                    },
+                    "137": {
+                        "tokenAddress": "0xe2dCA969624795985F2f083BcD0b674337ba130a"
+                    },
+                    "42161": {
+                        "tokenAddress": "0xe2dCA969624795985F2f083BcD0b674337ba130a"
+                    },
+                    "43114": {
+                        "tokenAddress": "0xe2dCA969624795985F2f083BcD0b674337ba130a"
+                    },
+                    "8453": {
                         "tokenAddress": "0xe2dCA969624795985F2f083BcD0b674337ba130a"
                     }
                 }
